@@ -17,5 +17,4 @@
  * under the License.
  */
 
-asfMavenTlpStdBuild()
-test 
+asfMavenTlpStdBuild() 
